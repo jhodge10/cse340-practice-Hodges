@@ -1,6 +1,7 @@
 {
     "name": "cse340-practice-Hodges",
     "dependencies": {
+        "ejs": "^5.0.2",
         "express": "^5.2.1"
     },
     "type": "module",
@@ -11,5 +12,4 @@
     "devDependencies": {
         "nodemon": "^3.1.14"
     }
-
 }
